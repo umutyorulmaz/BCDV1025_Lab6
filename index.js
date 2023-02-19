@@ -3,6 +3,7 @@
  *
  * SPDX-License-Identifier: Apache-2.0
  */
+/*eslint linebreak-style: ["error", "windows"]*/
 
 'use strict';
 
